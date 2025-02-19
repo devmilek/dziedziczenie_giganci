@@ -1,0 +1,14 @@
+/Users/milek/Desktop/Projekty/GIganci Programowania/dziedziczenie/obj/Debug/net8.0/dziedziczenie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milek/Desktop/Projekty/GIganci Programowania/dziedziczenie/obj/Debug/net8.0/dziedziczenie.AssemblyInfoInputs.cache
+/Users/milek/Desktop/Projekty/GIganci Programowania/dziedziczenie/obj/Debug/net8.0/dziedziczenie.AssemblyInfo.cs
+/Users/milek/Desktop/Projekty/GIganci Programowania/dziedziczenie/obj/Debug/net8.0/dziedziczenie.csproj.CoreCompileInputs.cache
+/Users/milek/Desktop/Projekty/GIganci Programowania/dziedziczenie/bin/Debug/net8.0/dziedziczenie
+/Users/milek/Desktop/Projekty/GIganci Programowania/dziedziczenie/bin/Debug/net8.0/dziedziczenie.deps.json
+/Users/milek/Desktop/Projekty/GIganci Programowania/dziedziczenie/bin/Debug/net8.0/dziedziczenie.runtimeconfig.json
+/Users/milek/Desktop/Projekty/GIganci Programowania/dziedziczenie/bin/Debug/net8.0/dziedziczenie.dll
+/Users/milek/Desktop/Projekty/GIganci Programowania/dziedziczenie/bin/Debug/net8.0/dziedziczenie.pdb
+/Users/milek/Desktop/Projekty/GIganci Programowania/dziedziczenie/obj/Debug/net8.0/dziedziczenie.dll
+/Users/milek/Desktop/Projekty/GIganci Programowania/dziedziczenie/obj/Debug/net8.0/refint/dziedziczenie.dll
+/Users/milek/Desktop/Projekty/GIganci Programowania/dziedziczenie/obj/Debug/net8.0/dziedziczenie.pdb
+/Users/milek/Desktop/Projekty/GIganci Programowania/dziedziczenie/obj/Debug/net8.0/dziedziczenie.genruntimeconfig.cache
+/Users/milek/Desktop/Projekty/GIganci Programowania/dziedziczenie/obj/Debug/net8.0/ref/dziedziczenie.dll
