@@ -12,3 +12,4 @@
 /Users/milek/Desktop/Projekty/GIganci Programowania/dziedziczenie/obj/Debug/net8.0/dziedziczenie.pdb
 /Users/milek/Desktop/Projekty/GIganci Programowania/dziedziczenie/obj/Debug/net8.0/dziedziczenie.genruntimeconfig.cache
 /Users/milek/Desktop/Projekty/GIganci Programowania/dziedziczenie/obj/Debug/net8.0/ref/dziedziczenie.dll
+/Users/milek/Desktop/Projekty/GIganci Programowania/dziedziczenie/obj/Debug/net8.0/dziedziczenie.sourcelink.json

@@ -22,4 +22,9 @@ public class Pojazd
         Marka = marka;
         IloscKol = iloscKol;
     }
+
+    public override string ToString()
+    {
+        return $"Moc: {Moc}, Kolor: {Kolor}, Marka: {Marka}, IloscKol: {IloscKol}";
+    }
 }

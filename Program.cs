@@ -9,6 +9,7 @@
         autobus.uruchomSilnik();
         samochod.uruchomSilnik();
 
-        Console.WriteLine("Wynik metody ToString(): " + samochod.ToString());
+        Console.WriteLine(autobus.ToString());
+        Console.WriteLine(samochod.ToString());
     }
 }
